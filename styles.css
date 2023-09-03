@@ -1,2 +1,15 @@
+ .moviePic {
+            height: 300px; /* Set the height of the movie poster */
+            width: auto; /* Maintain aspect ratio for the width */
+            opacity: 0.9; /* Adjust opacity for a slight fade effect */
+        }
 
+        /* CSS for movie description */
+        .movieDetail {
+            position: absolute; /* Positioning the description */
+            top: 50%; /* Align at the vertical center of the page */
+            width: 100%; /* Full width */
+            text-align: center; /* Center-align the text */
+            font-size: 24px; /* Set the font size */
+        }
 /* Your CSS Code here. */
